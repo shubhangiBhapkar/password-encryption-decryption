@@ -56,9 +56,31 @@ The main goal is to provide a secure platform for managing sensitive credentials
   
  **6.Deployment:**
 - Description: In this phase, the project is packaged for distribution, making it accessible for users. Clear installation and usage guidelines are provided to simplify deployment and usage.
-  
-  
 
+  ---
+##  Requirements for the Password Encryption Decryption
+**1.Software Requirements:**
+- Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
+- Python Version: Python 3.6 or higher.
+- Libraries: Install the cryptography library for encryption and unittest for testing
+
+**2.Hardware Requirements:**
+- Minimum 4 GB RAM for running Python scripts and testing.
+- At least 500 MB of free storage space to manage project files and logs.
+
+**3.Functional Requirements:**
+- Ability to securely encrypt and decrypt passwords.
+- Store encrypted passwords in a file (passwords.txt).
+- Retrieve and display decrypted passwords as needed.
+- Generate and store an encryption key in a secure file (key.key).
+
+**4.Development Requirements:**
+- Development Environment: Any code editor like VSCode, PyCharm, or a text editor like Sublime Text.
+- Testing Tools: Use unittest for validating the code functionalities.
+  
+**5.User Requirements:**
+- Basic understanding of running Python scripts.
+- Ability to install required libraries using pip.
 
 
 
