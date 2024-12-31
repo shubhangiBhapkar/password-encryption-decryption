@@ -84,6 +84,12 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - Basic understanding of running Python scripts.
 - Ability to install required libraries using pip.
 
+## 🚀 Getting Started
+**Steps to Run the Project**
+
+
+
+
 
 
 
