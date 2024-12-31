@@ -31,7 +31,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  1.Bhapkar Shubhangi Sambhaji  
  2.Kore Shubhangi Chandrakant  
  3.Hase Chaitanya 
- 4.Dighe Suyog  
+ 4.Dighe Suyog Ashok 
 
 ## 📌 Project Phases
 **1.Planning and Requirements Analysis:**
