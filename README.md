@@ -58,7 +58,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
   
  **6.Deployment:**
 - Description: In this phase, the project is packaged for distribution, making it accessible for users. Clear installation and usage guidelines are provided to simplify deployment and usage.
-- 
+  
 
 ##  Requirements for the Password Encryption Decryption
 **1.Software Requirements:**
@@ -86,8 +86,9 @@ The main goal is to provide a secure platform for managing sensitive credentials
 
 ## 🚀 Getting Started
 ### Steps to Run the Project
-**1.Clone the Repository**
- https://github.com/shubhangiBhapkar/password-encryption-decryption.git
+**1.Clone the Repository**  
+
+ ```https://github.com/shubhangiBhapkar/password-encryption-decryption.git
 
 **2. Navigate to the Project Directory**
 
