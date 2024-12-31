@@ -88,7 +88,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 ### Steps to Run the Project
 **1.Clone the Repository**  
 
- ```https://github.com/shubhangiBhapkar/password-encryption-decryption.git
+ > https://github.com/shubhangiBhapkar/password-encryption-decryption.git
 
 **2. Navigate to the Project Directory**
 
