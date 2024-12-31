@@ -18,7 +18,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - **Libraries Used**:
 cryptography for encryption and decryption.
 unittest for testing the codebase.
-.
+
 ## 🛠️ Features
 1.**Encryption:** Encrypts passwords using the cryptography library's AES implementation.
 2.**Decryption:** Decrypts passwords securely upon user authentication.
