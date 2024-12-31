@@ -94,18 +94,21 @@ The main goal is to provide a secure platform for managing sensitive credentials
 
  `cd password-manager`  
  
-**3.Install Dependencies**
+**3.Install Dependencies**  
+
  Ensure Python 3.6 or later is installed on your system.
  Install the required library:
 
   `pip install cryptography`
 
-**4.Run the Application**
+**4.Run the Application**  
+
   Start the Password Manager by running the main script:
 
    `python manager.py`
    
-**5.Follow the Prompts**
+**5.Follow the Prompts**  
+
   The application will guide you to add, retrieve, or manage passwords through a simple command-line interface.
 
 
