@@ -27,6 +27,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 **4. User-Friendly Interface:** Simple command-line interface for password management.  
 **5. Secure Key Management:** Automatically generates and stores a secure encryption key.  
 
+---
 ## Name of Team Members
  1.Bhapkar Shubhangi Sambhaji  
  2.Kore Shubhangi Chandrakant  
