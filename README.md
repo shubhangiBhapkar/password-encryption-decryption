@@ -17,7 +17,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  ### 3. Development Platform
 - **Programming Language**: Python 3.6 or later.
 - **Libraries Used**:
- cryptography for encryption and decryption.
+ cryptography for encryption and decryption.  
  unittest for testing the codebase.
 
 ## 🛠️ Features
