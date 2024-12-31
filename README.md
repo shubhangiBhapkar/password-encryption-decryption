@@ -58,8 +58,8 @@ The main goal is to provide a secure platform for managing sensitive credentials
   
  **6.Deployment:**
 - Description: In this phase, the project is packaged for distribution, making it accessible for users. Clear installation and usage guidelines are provided to simplify deployment and usage.
+- 
 
-  ---
 ##  Requirements for the Password Encryption Decryption
 **1.Software Requirements:**
 - Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
@@ -85,27 +85,25 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - Ability to install required libraries using pip.
 
 ## 🚀 Getting Started
-**Steps to Run the Project**
-- Open your terminal or command prompt and execute the following command:
+### Steps to Run the Project
+**1.Clone the Repository**
  https://github.com/shubhangiBhapkar/password-encryption-decryption.git
 
-- Navigate to the Project Directory
- Move into the directory where the project is located:
+**2. Navigate to the Project Directory**
 
- cd password-manager
-
-- Install Dependencies
-Ensure Python 3.6 or later is installed on your system.
-Install the required library:
+   cd password-manager
+**3.Install Dependencies**
+ Ensure Python 3.6 or later is installed on your system.
+ Install the required library:
 
   pip install cryptography
 
--  Run the Application
+**4.Run the Application**
   Start the Password Manager by running the main script:
 
    python manager.py
    
-- Follow the Prompts
+**5.Follow the Prompts**
   The application will guide you to add, retrieve, or manage passwords through a simple command-line interface.
 
 
