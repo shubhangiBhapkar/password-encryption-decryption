@@ -37,18 +37,23 @@ The main goal is to provide a secure platform for managing sensitive credentials
 **1.Planning and Requirements Analysis:**
 - Description: This phase involves identifying the project’s primary goals and objectives, understanding the needs of the target audience, and selecting the appropriate tools and libraries for development. It 
   establishes the foundation for the project’s success by clearly defining its scope and purpose.
+  
  **2.Design:**
 - Description: The design phase focuses on planning the application’s core features and functionalities, such as encryption, decryption, and storage mechanisms. It also includes designing the user interface (UI) 
   and determining the flow of the command-line interface (CLI) for user interaction.
+  
  **3.Implementation:**
 - Description: This phase involves writing the code for the PasswordManager class and implementing functionalities like encryption, decryption, key management, and file-based storage. Error handling mechanisms 
   are also integrated to enhance reliability.
+  
  **4.Testing:**
 - Description: During this phase, unit testing is performed to validate the functionality of encryption, decryption, and storage operations. The application is tested against various edge cases to ensure 
   robustness and accuracy.
- **5.Documentation:**
+  
+ **5.Documentation:**  
 - Description: Comprehensive documentation is created to detail the project’s features, setup instructions, usage guidelines, and potential enhancements. This phase ensures that the project is well-documented for 
   future reference or sharing with others.
+  
  **6.Deployment:**
 - Description: In this phase, the project is packaged for distribution, making it accessible for users. Clear installation and usage guidelines are provided to simplify deployment and usage.
   
