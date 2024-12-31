@@ -87,19 +87,22 @@ The main goal is to provide a secure platform for managing sensitive credentials
 ## 🚀 Getting Started
 **Steps to Run the Project**
 - Open your terminal or command prompt and execute the following command:
-  git clone https://github.com/yourusername/password-manager.git
+ https://github.com/shubhangiBhapkar/password-encryption-decryption.git
 
 - Navigate to the Project Directory
  Move into the directory where the project is located:
+
  cd password-manager
 
 - Install Dependencies
 Ensure Python 3.6 or later is installed on your system.
 Install the required library:
+
   pip install cryptography
 
 -  Run the Application
   Start the Password Manager by running the main script:
+
    python manager.py
    
 - Follow the Prompts
