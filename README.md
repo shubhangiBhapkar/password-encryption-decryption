@@ -16,8 +16,8 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - **Students and Developers:** Learners interested in understanding Python-based encryption techniques and file management.
  ### 3. Development Platform
 - **Programming Language**: Python 3.6 or later.
-- **Libraries Used**:
- cryptography for encryption and decryption.  
+- **Techniques Used**:
+  Simple Caesar cipher for encryption and decryption.  
  unittest for testing the codebase.
 
 ##  📖 Features
