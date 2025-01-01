@@ -90,12 +90,12 @@ The main goal is to provide a secure platform for managing sensitive credentials
  https://github.com/shubhangiBhapkar/password-encryption-decryption.git
 
 **2. Navigate to the Project Directory**  
- `cd password-manager`  
+ `cd password-encryption-decryption`  
 
 **3.Run the Application**  
   Start the Password Manager by running the main script:
 
-   `python manager.py`
+   `python main.py`
    
 **4.Follow the Prompts**  
   The application will guide you to add, retrieve, or manage passwords through a simple command-line interface.
