@@ -117,7 +117,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  - Replace file-based storage with a database like SQLite, MySQL, or MongoDB.
  - Enable better scalability and more complex queries.
 
-   **4.Cloud Synchronization:**
+  **4.Cloud Synchronization:**
 
  - Provide an option to synchronize passwords securely across devices using cloud services like AWS, Google Drive, or Firebase.
  - Encrypt data before uploading to the cloud for enhanced security.
