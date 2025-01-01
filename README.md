@@ -32,7 +32,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 
  1.Bhapkar Shubhangi Sambhaji 
  2.Kore Shubhangi Chandrakant
- 3.Hase Chaitanya  
+ 3.Hase Chaitanya Dnyaneshwar
  4.Dighe Suyog Ashok  
  
 
