@@ -17,8 +17,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  ### 3. Development Platform
 - **Programming Language**: Python 3.6 or later.
 - **Techniques Used**:
-  Simple Caesar cipher for encryption and decryption.  
- unittest for testing the codebase.
+  Simple Caesar cipher for encryption and decryption. 
 
 ##  📖 Features
 **1. Encryption:** Encrypts passwords using simple Caesar cipher Technique.  
@@ -66,7 +65,6 @@ The main goal is to provide a secure platform for managing sensitive credentials
 **1.Software Requirements:**
 - Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
 - Python Version: Python 3.6 or higher.
-- Libraries: Install the cryptography library for encryption and unittest for testing
 
 **2.Hardware Requirements:**
 - Minimum 4 GB RAM for running Python scripts and testing.
