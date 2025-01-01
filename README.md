@@ -20,7 +20,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  cryptography for encryption and decryption.  
  unittest for testing the codebase.
 
-## 🛠️ Features
+##  📖 Features
 **1. Encryption:** Encrypts passwords using the cryptography library's AES implementation.  
 **2. Decryption:** Decrypts passwords securely upon user authentication.  
 **3. File-Based Storage:** Stores encrypted passwords in a text file for persistence.  
@@ -61,7 +61,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - Description: In this phase, the project is packaged for distribution, making it accessible for users. Clear installation and usage guidelines are provided to simplify deployment and usage.
   
 
-##  Requirements for the Password Encryption Decryption
+## 🛠️ Requirements for the Password Encryption Decryption
 **1.Software Requirements:**
 - Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
 - Python Version: Python 3.6 or higher.
@@ -101,7 +101,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 **4.Follow the Prompts**  
   The application will guide you to add, retrieve, or manage passwords through a simple command-line interface.  
 
-  ## Future Enhancement  
+  ## 🔍 Future Enhancement  
    **1.Graphical User Interface (GUI):**
 
   - Develop a user-friendly GUI using frameworks like Tkinter, PyQt, or Kivy.
