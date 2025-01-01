@@ -21,7 +21,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
  unittest for testing the codebase.
 
 ##  📖 Features
-**1. Encryption:** Encrypts passwords using the cryptography library's AES implementation.  
+**1. Encryption:** Encrypts passwords using simple Caesar cipher Technique.  
 **2. Decryption:** Decrypts passwords securely upon user authentication.  
 **3. File-Based Storage:** Stores encrypted passwords in a text file for persistence.  
 **4. User-Friendly Interface:** Simple command-line interface for password management.  
