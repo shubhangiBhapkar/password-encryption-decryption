@@ -102,28 +102,28 @@ The main goal is to provide a secure platform for managing sensitive credentials
   The application will guide you to add, retrieve, or manage passwords through a simple command-line interface.  
 
   ## Future Enhancement  
-  **1.Graphical User Interface (GUI):**
+   **1.Graphical User Interface (GUI):**
 
-- Develop a user-friendly GUI using frameworks like Tkinter, PyQt, or Kivy.
-- Allow users to add, view, and manage passwords with a visually appealing interface.
+  - Develop a user-friendly GUI using frameworks like Tkinter, PyQt, or Kivy.
+  - Allow users to add, view, and manage passwords with a visually appealing interface.
 
-  **2. Multi-User Support:**
+   **2. Multi-User Support:**
+ 
+  - Implement user authentication (e.g., login system with username and password).
+  - Allow multiple users to manage their passwords independently.
 
-- Implement user authentication (e.g., login system with username and password).
-- Allow multiple users to manage their passwords independently.
-
-  **3.Database Integration:**
+   **3.Database Integration:**
   
-- Replace file-based storage with a database like SQLite, MySQL, or MongoDB.
-- Enable better scalability and more complex queries.
+ - Replace file-based storage with a database like SQLite, MySQL, or MongoDB.
+ - Enable better scalability and more complex queries.
 
-**4.Cloud Synchronization:**
+   **4.Cloud Synchronization:**
 
-- Provide an option to synchronize passwords securely across devices using cloud services like AWS, Google Drive, or Firebase.
-- Encrypt data before uploading to the cloud for enhanced security.
+ - Provide an option to synchronize passwords securely across devices using cloud services like AWS, Google Drive, or Firebase.
+ - Encrypt data before uploading to the cloud for enhanced security.
 
- **5. Two-Factor Authentication (2FA):**
-- Add an extra layer of security with 2FA using email, SMS, or authenticator apps like Google Authenticator.
+  **5. Two-Factor Authentication (2FA):**
+ - Add an extra layer of security with 2FA using email, SMS, or authenticator apps like Google Authenticator.
 
 
 
