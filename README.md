@@ -30,8 +30,8 @@ The main goal is to provide a secure platform for managing sensitive credentials
 
 ## 🧑‍💻 Name of Team Members  
 
- 1.Bhapkar Shubhangi   
- 2.Kore Shubhangi   
+ 1.Bhapkar Shubhangi Sambhaji 
+ 2.Kore Shubhangi Chandrakant
  3.Hase Chaitanya  
  4.Dighe Suyog Ashok  
  
