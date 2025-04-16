@@ -7,7 +7,7 @@ This project showcases best practices in Python development and serves as a comp
 ## 📝 Planning and Development Documentation
 ### 1. Goals and Objectives
 The main goal is to provide a secure platform for managing sensitive credentials and Key Objectives are :
-- Securely encrypt passwords using AES encryption.
+- Securely encrypt passwords using Caesar cipher Technique.
 - Allow users to decrypt and access stored passwords when necessary.
 - Provide file-based storage for managing passwords.
 - Ensure scalability for future enhancements like multi-user support.
