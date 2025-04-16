@@ -65,6 +65,10 @@ The main goal is to provide a secure platform for managing sensitive credentials
 **1.Software Requirements:**
 - Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
 - Python Version: Python 3.6 or higher.
+- Python Libraries:
+  tkinter – for building the graphical user interface (GUI)
+  os – for file and system operations (built-in)
+- Code Editor: VS Code.
 
 **2.Hardware Requirements:**
 - Minimum 4 GB RAM for running Python scripts and testing.
