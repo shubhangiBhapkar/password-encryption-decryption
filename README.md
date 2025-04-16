@@ -15,7 +15,7 @@ The main goal is to provide a secure platform for managing sensitive credentials
 - **General Users:** Individuals who want to securely manage their passwords.
 - **Students and Developers:** Learners interested in understanding Python-based encryption techniques and file management.
  ### 3. Development Platform
-- **Programming Language**: Python 3.6 or later.
+- **Programming Language**: Python 3.6 
 - **Techniques Used**:
   Simple Caesar cipher for encryption and decryption. 
 
@@ -64,15 +64,15 @@ The main goal is to provide a secure platform for managing sensitive credentials
 ## 🛠️ Requirements for the Password Encryption Decryption
 **1.Software Requirements:**
 - Operating System: Any system with Python 3.6 or later installed (Windows, macOS, Linux).
-- Python Version: Python 3.6 or higher.
+- Python Version: Python 3.6 
 - Python Libraries:
   tkinter – for building the graphical user interface (GUI)
   os – for file and system operations (built-in)
 - Code Editor: VS Code.
 
 **2.Hardware Requirements:**
-- Minimum 4 GB RAM for running Python scripts and testing.
-- At least 500 MB of free storage space to manage project files and logs.
+-  4 GB RAM for running Python scripts and testing.
+-  500 MB of free storage space to manage project files and logs.
 
 **3.Functional Requirements:**
 - Ability to securely encrypt and decrypt passwords.
